@@ -1,0 +1,45 @@
+button.b1{
+  position: relative;
+  left: 490px ;
+  top: 250px;
+  right: 490px;
+  bottom: 250px;
+}
+
+button.b2{
+  position: relative;
+  left: 750px ;
+  top: 200px;
+  right: 390px;
+  bottom: 300px;
+}
+
+button.b3{
+  position: relative;
+  left: 1000px ;
+  top: 250px;
+  right: 90px;
+  bottom: 250px;
+}
+
+button.b4{
+  position: relative;
+  left: 400px ;
+  top: 430px;
+  right: 490px;
+  bottom: 50px;
+}
+
+button.b5{
+  position: relative;
+  left: 950px ;
+  top: 430px;
+  right: 490px;
+  bottom: 50px;
+}
+
+html, body{
+  background-image: url(gol.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
+}
